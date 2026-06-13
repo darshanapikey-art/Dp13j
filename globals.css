@@ -1,0 +1,17 @@
+
+body{
+background:#08110d;
+color:white;
+font-family:sans-serif;
+}
+.hero{
+min-height:100vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+}
+section{
+padding:120px 40px;
+text-align:center;
+}

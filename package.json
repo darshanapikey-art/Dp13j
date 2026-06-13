@@ -1,0 +1,14 @@
+{
+  "name": "darshan-evolution",
+  "private": true,
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "framer-motion": "latest",
+    "@react-three/fiber": "latest",
+    "@react-three/drei": "latest",
+    "three": "latest",
+    "gsap": "latest"
+  }
+}
